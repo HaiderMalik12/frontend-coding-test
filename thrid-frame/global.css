@@ -1,0 +1,57 @@
+body {
+  margin: 15;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-pretendard: Pretendard;
+  --caption-c1: Inter;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-sm: 14px;
+  --font-size-xl: 20px;
+  --caption-c1-size: 12px;
+
+  /* Colors */
+  --input-form-default: #d7d8da;
+  --neutral-1: #fff;
+  --input-form-completed: #b1b4bb;
+  --dark-1: #222;
+  --dark-11: #0b101a;
+  --color-dimgray: #5a616a;
+  --color-tomato: #ff4d4f;
+  --primary-main: #2a3958;
+  --table-bg: #eef0f4;
+  --status-text-bg3: #fee2e2;
+  --status-text-refusal: #991b1b;
+  --status-text-bg1: #dcfce7;
+  --status-text-approval: #166534;
+  --status-text-bg2: #ffedd5;
+  --status-text-waiting: #9a3412;
+  --indigo-0: #f0f1fa;
+  --indigo-500: #4f5aed;
+
+  /* Gaps */
+  --gap-9xs: 4px;
+  --gap-5xs: 8px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-xs: 12px;
+  --padding-mid: 17px;
+  --padding-base: 16px;
+  --padding-41xl: 60px;
+  --padding-8xs: 5px;
+  --padding-12xs: 1px;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-3xs: 10px;
+  --br-9xs: 4px;
+
+  /* Effects */
+  --check-box-shaodw: 0px 1px 1px rgba(0, 0, 0, 0.1),
+    0px 0px 0px 1px rgba(70, 79, 96, 0.16), 0px 2px 5px rgba(89, 96, 120, 0.1);
+}

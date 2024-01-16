@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-pretendard: Pretendard;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-sm: 14px;
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --gray-600: #475467;
+  --primary-main: #2a3958;
+  --base-white: #fff;
+  --dark-1: #0b101a;
+
+  /* Gaps */
+  --gap-base: 16px;
+  --gap-9xs: 4px;
+
+  /* Paddings */
+  --padding-13xl: 32px;
+  --padding-mid: 17px;
+  --padding-base: 16px;
+  --padding-5xl: 24px;
+  --padding-3xs: 10px;
+
+  /* Border radiuses */
+  --br-xs: 12px;
+  --br-3xs: 10px;
+  --br-5xs: 8px;
+  --br-9xl: 28px;
+
+  /* Effects */
+  --shadow-xl: 0px 20px 24px -4px rgba(16, 24, 40, 0.1),
+    0px 8px 8px -4px rgba(16, 24, 40, 0.04);
+}

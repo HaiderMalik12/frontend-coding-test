@@ -1,0 +1,30 @@
+body {
+  margin: 10;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-pretendard: Pretendard;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --shades-white: #fff;
+  --dark-2: #141f2d;
+  --dark-1: #0b101a;
+  --primary-main: #2a3958;
+  --input-form-completed: #b1b4bb;
+
+  /* Paddings */
+  --padding-7xs: 6px;
+  --padding-27xl: 46px;
+  --padding-base: 16px;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+
+  /* Effects */
+  --dropdown-shadow1: 0px 8px 16px rgba(54, 54, 54, 0.15);
+}

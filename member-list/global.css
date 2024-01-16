@@ -1,0 +1,73 @@
+body {
+  margin: 10;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-pretendard: Pretendard;
+  --p-l-b: Roboto;
+
+  /* font sizes */
+  --p-l-b-size: 16px;
+  --font-size-sm: 14px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --primary-main: #2a3958;
+  --neutral-1: #fff;
+  --input-form-completed: #b1b4bb;
+  --color-darkgray-100: #a1a1a1;
+  --dark-1: #222;
+  --dark-11: #0b101a;
+  --color-dimgray: #5a616a;
+  --light-2: #e6e8eb;
+  --scroll-bg: #e6e8ea;
+  --light-1: #dde0e5;
+  --input-form-default: #d7d8da;
+  --light-3: #ebeef3;
+  --color-tomato: #ff4d4f;
+  --table-bg2: #f9f9fb;
+  --white: #f5f5f5;
+  --pagination-bg: #f1f3f5;
+  --table-bg: #eef0f4;
+  --status-text-bg3: #fee2e2;
+  --status-text-refusal: #991b1b;
+  --green-400: #31c48d;
+  --status-text-bg2: #ffedd5;
+  --status-text-waiting: #9a3412;
+  --status-text-bg1: #dcfce7;
+  --status-text-approval: #166534;
+  --primary-lighter: #6f80a0;
+  --main: #0080ff;
+
+  /* Gaps */
+  --gap-base: 16px;
+  --gap-9xs: 4px;
+  --gap-5xs: 8px;
+  --gap-xs: 12px;
+  --gap-7xs: 6px;
+
+  /* Paddings */
+  --padding-mid: 17px;
+  --padding-base: 16px;
+  --padding-3xs: 10px;
+  --padding-xs: 12px;
+  --padding-41xl: 60px;
+  --padding-8xs: 5px;
+  --padding-lg: 18px;
+  --padding-5xs: 8px;
+  --padding-11xs: 2px;
+  --padding-6xs: 7px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-5xs: 8px;
+  --br-9xs: 4px;
+  --br-10xs: 3px;
+  --br-xl: 20px;
+
+  /* Effects */
+  --check-box-shaodw: 0px 1px 1px rgba(0, 0, 0, 0.1),
+    0px 0px 0px 1px rgba(70, 79, 96, 0.16), 0px 2px 5px rgba(89, 96, 120, 0.1);
+}
